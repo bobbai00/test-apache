@@ -1,6 +1,4 @@
 # test-apache
 
 
-hello
-twst
-world
+helloworld
